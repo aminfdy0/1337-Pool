@@ -39,7 +39,8 @@ void	ft_sort_int_tab(int *tab, int size)
 int main(void)
 {
 	int	size = 5;
-	int	tab[] = {45, 30, 14, 5, -1}; 
+	int	tab[] = {45, 30, 14, 5, -1};
+	// Bubble Sort | O(n^2) 
     ft_sort_int_tab(tab, size);
 	for (int i = 0; i < size; i++)
 	{

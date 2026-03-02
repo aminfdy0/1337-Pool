@@ -56,7 +56,7 @@ char	*ft_strcapitalize(char *str)
 /*
 int main(void)
 {
-	char	name[] = "hi, how are you? 42words forty-two; fifty+and+one";
-	printf("%s", ft_strcapitalize(name));
+	char	str[] = "hi, how are you? 42words forty-two; fifty+and+one";
+	printf("%s", ft_strcapitalize(str));
 }
 */

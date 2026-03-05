@@ -1,4 +1,4 @@
-int len(char *str)
+int str_length(char *str)
 {
     int  i = 0;
     while (str[i])
@@ -10,7 +10,7 @@ int len(char *str)
 
 char *swap_cases(char *str)
 {
-    int length = len(str);
+    int length = str_length(str);
     int i = 0;
     while (i < length / 2)
     {

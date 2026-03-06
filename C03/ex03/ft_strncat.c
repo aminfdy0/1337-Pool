@@ -41,8 +41,8 @@ char	*ft_strncat(char *dest, char *src, unsigned int nb)
 /*
 int main()
 {
-    char s1[] = "AMIN -";
-    char s2[] = " FDY0";
-    printf("%s", ft_strncat(s1, s2, 4));
+    char s1[] = "amin";
+    char s2[] = "fdy0";
+    printf("%s", ft_strncat(s1, s2, 3));
 }
 */

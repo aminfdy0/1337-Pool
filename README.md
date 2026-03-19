@@ -40,15 +40,15 @@ Includes:
 
 | Day   | Status | Completed | Stopped | Topics             |
 | ----- | ------ | --------- | ------- | ------------------ |
-| Shell00 | ✅ | ex00 - ex08 | — | Shell && Git Basics |
-| Shell01 | ✅ | ex01 - ex08 | — | Advanced Shell      |
-| C00 | ✅ | ex00 - ex08 | — | C Fundamentals      |
-| C01 | ✅ | ex00 - ex08 | — | Pointers            |
+| Shell00 | ✅ | ex00 - ex08 | —  | Shell && Git Basics |
+| Shell01 | ✅ | ex01 - ex08 | —  | Advanced Shell      |
+| C00 | ✅ | ex00 - ex08 | —     | C Fundamentals      |
+| C01 | ✅ | ex00 - ex08 | —     | Pointers            |
 | C02 | ⚠️ | ex00 - ex11 | ex12 | Strings & Arrays    |
-| C03 | ✅ | ex00 - ex05 | — | String Ops          |
+| C03 | ✅ | ex00 - ex05 | —    | String Ops          |
 | C04 | ⚠️ | ex00 - ex04 | ex05 | Numbers             |
 | C05 | ⚠️ | ex00 - ex07 | ex08 | Math & Recursion    |
-| C06 | ⏳ | — | — | Argc & Argv          |
+| C06 | ✅ | ex00 - ex03 | —    | Argc & Argv          |
 | C07–C13 | ❌ | — | — | Advanced C Topics    |
 | Rush00–Rush02 | ❌ | — | — | Rush Projects       |
 | BSQ | ❌ | — | — | Big Square            |
@@ -57,12 +57,12 @@ Includes:
 
 ## Exam Problems Overview
 
-| Exam Stage   | Problems                                                                 |
-|--------------|--------------------------------------------------------------------------|
-| **Exam00**   | `only_z` `aff_a` `even, maff_alpha, maff_revalpha, odd, putstr` `print_even, print_odd, swap_cases` `ft_add, ft_dec, ft_div, ft_inc, ft_mul, ft_sub, occ_a` `ft_putstr, ft_strcmp, ft_strcpy, ft_strlen, ft_strrev, ft_swap` `ft_atoi, ft_putnbr` |
-| **Exam01**   | —                                                                        |
-| **Exam02**   | —                                                                        |
-| **Final Exam** | —                                                                      |
+| Exam Stage   | Problems                                                                 | Nb |
+|--------------|--------------------------------------------------------------------------|-------|
+| **Exam00**   | `only_z` `aff_a` `even, maff_alpha, maff_revalpha, odd, putstr` `print_even, print_odd, swap_cases` `ft_add, ft_dec, ft_div, ft_inc, ft_mul, ft_sub, occ_a` `ft_putstr, ft_strcmp, ft_strcpy, ft_strlen, ft_strrev, ft_swap` `ft_atoi, ft_putnbr`|**25**|
+| **Exam01**   | —                                                                        |**0** |
+| **Exam02**   | —                                                                        |**0** |
+| **Final Exam** | —                                                                      |**0** |
 
 ---
 

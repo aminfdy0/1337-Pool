@@ -72,5 +72,10 @@ Includes:
 >Try solving exercises yourself first, then compare.  
 >For any questions: Discord username **fedayee0**
 >
- [FDY CODING SERVER DISCORD](https://discord.gg/PCjtmQXTvk)
+ [FDY CODING - SERVER DISCORD](https://discord.gg/PCjtmQXTvk)
+
+ <p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
+</p>
 </div>

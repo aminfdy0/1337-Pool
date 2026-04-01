@@ -6,7 +6,7 @@
 /*   By: fdycoding <aminefdy@gmail.com>             +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/04/01 12:36:08 by fdycoding         #+#    #+#             */
-/*   Updated: 2026/04/01 12:36:09 by fdycoding        ###   ########.fr       */
+/*   Updated: 2026/04/01 12:40:03 by fdycoding        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -64,11 +64,15 @@ int	base_is_valid(char *base)
 
 int	ft_atoi_base(char *str, char *base)
 {
-	int i = 0;
-	int sign = 1;
-	int result = 0;
+	int	i;
+	int sign;
+	int result;
 	int value;
 	int base_len;
+
+	i = 0;
+	sign = 1;
+	result = 0;
 
 	if (!base_is_valid(base))
 		return (0);

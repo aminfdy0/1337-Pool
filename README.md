@@ -27,7 +27,7 @@ It is designed to test your ability to learn independently and work under pressu
 
 All official exercises and subjects are available here: 
 
-[`Piscine Subjects`](https://github.com/fedayee0/1337-Piscine/tree/main/Piscine%20Subjects)
+[`Piscine Subjects`](https://github.com/fedayee0/1337-Piscine/tree/main/Piscine-Subjects)
 
 Includes:  
  Daily challenges: Shell – C – BSQ  
